@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Subido/static/css/main.39bd0c6b.css",
+    "main.js": "/Subido/static/js/main.501dc4e9.js",
+    "static/js/453.8ab44547.chunk.js": "/Subido/static/js/453.8ab44547.chunk.js",
+    "static/media/logo.png": "/Subido/static/media/logo.3e991f86b987bc3a1c1d.png",
+    "index.html": "/Subido/index.html",
+    "main.39bd0c6b.css.map": "/Subido/static/css/main.39bd0c6b.css.map",
+    "main.501dc4e9.js.map": "/Subido/static/js/main.501dc4e9.js.map",
+    "453.8ab44547.chunk.js.map": "/Subido/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39bd0c6b.css",
+    "static/js/main.501dc4e9.js"
+  ]
+}
